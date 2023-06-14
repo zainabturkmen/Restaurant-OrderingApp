@@ -1,0 +1,232 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+    width:  600px;
+}
+
+ #img{
+     background-image: url('imm.png');
+     background-size: cover;
+     width:  600px;
+     height: 170px;
+     padding-top: 30px;
+     margin: 0 auto
+ }
+ 
+  h1 {
+     color: #FFFFFF;
+     font-family: 'Smythe', cursive;
+     font-weight: 400;
+     margin-left: 40px;
+     margin-bottom: 5px;
+     margin-top: 10px;
+     font-size: 40px;
+ }
+ 
+   p{
+     color: #FFFFFF;
+     margin-top: 0px;
+     margin-left: 40px;
+     font-weight: 400;
+     font-family: 'Smythe', cursive;
+     font-size: 25px;
+ }
+ 
+ /* menu */
+
+ .menu-foods {
+     display: flex;
+     position: relative;
+     margin: 70px 30px 70px 30px;
+     border-bottom: 1px solid lightgray;
+ }
+ 
+ .emoji{
+    font-size: 80px;
+    margin-bottom: 60px;
+}
+
+ 
+.name {
+     color: #000000;
+     font-family: 'Smythe', cursive;
+     font-weight: 400;
+     margin-left: 40px;
+     margin-top: 0px;
+     font-size: 40px; 
+     line-height: 50px;
+     margin-bottom: 0px;
+}
+
+.ingredients-text{
+     color: #8B8B8B;
+     font-family: 'Smythe', cursive;
+     font-size: 20px;
+     margin-top: 0px;
+     margin-bottom: 15px;
+     display: flex;
+}
+
+.price{
+     color: #000000;
+     font-family: 'Smythe', cursive;
+     font-weight: 400;
+     font-size: 30px;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     display: flex;
+}
+
+.plus-btn{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    font-size: 20px;
+    padding: 15px 20px 15px 20px;
+    margin-left: auto;
+    color: 3C3C3C;
+    border-radius: 100px;
+    border: 2px solid #DEDEDE;
+    background-color: white;
+}
+
+
+/* Food order part */
+#myOrder{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px 0;
+    color: #000000;
+    padding-bottom: 50px;
+}
+
+#myOrder > * {
+    width: 510px;
+    font-family: 'Smythe', cursive;
+    font-weight: 400;
+}
+
+#myOrder h3{
+    margin-right: 10px;
+    font-family: 'Smythe', cursive;
+    font-weight: 400;
+}
+
+#myOrder h6{
+    font-size: 15px;
+    margin-right: 10px;
+    font-family: 'Smythe', cursive;
+    font-weight: 400;
+}
+
+.myOrder-item {
+    display: flex;
+    align-items: center;
+    margin: -25px 0;
+}
+
+#orderEl-title{
+    text-align: center;
+    font-size: 20px;
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+.myOrder-item p{
+    margin: 0 auto 0 0;
+}
+
+#total-price{
+    border-top: 2px solid #393333;
+    padding-bottom: 10px;
+    margin: 15px 0px;
+}
+
+.remove-btn{
+    color: #BBBBBB;
+    font-size: 18px;
+}
+
+h3, h4{
+    text-align: center;
+    font-size: 25px;  
+    font-family: 'Smythe', cursive;
+    font-weight: 400;  
+}
+
+#complete-btn, #myPayment button{
+    color: white;
+    background: #16DB99;
+    border: 1px solid #16DB99;
+    border-radius: 2px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#myPayment{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 500px;
+    height: 490px;
+    aspect-ratio: 1/1;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    border-radius: 5px;
+    filter: drop-shadow(0px 0px 50px #000);
+    display: none;
+    
+}
+
+#myPayment input{
+    border: 1px solid #757575;
+    border-radius: 4px;
+    width: 450px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+}
+
+#myPayment input:nth-child(3){
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+ 
+#myPayment input:nth-child(4){
+    margin-bottom: auto;
+}
+
+#myPayment button{
+    height: 50px;
+    width: 450px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+#myPayment h1{
+    margin: 50px;
+    color: black;
+    font-size: 35px;
+    margin-top: 80px;
+}
+
+.thanks-text{
+    color: #065f46;
+    text-align: center;
+    background-color: #ECFDF5;
+    padding: 30px;
+    padding-top: 50px;
+    font-size: 40px;
+    border-radius: 5px;
+    height: 70px;
+}
