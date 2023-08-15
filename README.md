@@ -1,4 +1,4 @@
-# cvReZEc2
+# Restaurant-Ordering App
 
 Quick start:
 
