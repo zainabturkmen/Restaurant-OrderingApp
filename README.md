@@ -26,5 +26,6 @@ Quick start:
   **Coding*
   ![ScalerCreateImpactGIF (2)](https://github.com/zainabturkmen/Restaurant-OrderingApp/assets/132147692/096ebf5f-5a5e-4eba-93bb-05880ddad83a)
 
+
   
 Happy Coding!
