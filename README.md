@@ -1,4 +1,5 @@
 # Restaurant-Ordering App
+![EatingCrabEricCartmanGIF](https://github.com/zainabturkmen/Restaurant-OrderingApp/assets/132147692/54ee0742-5b01-4149-9c61-df5ff95d81df)
 
 Quick start:
 
@@ -14,4 +15,7 @@ Quick start:
 ![Annotation 2023-10-21 062307](https://github.com/sampleRID/Restaurant-OrderingApp/assets/132147692/7ba5cefb-9f09-484b-9ebb-7aeede2a138c)
 
 
+EATING ![KevinmcgarryMcgarriesGIF](https://github.com/zainabturkmen/Restaurant-OrderingApp/assets/132147692/3fb0e427-c482-4d46-b770-bc7a5747a499)
+, SLEEPING![SleepGoGIF](https://github.com/zainabturkmen/Restaurant-OrderingApp/assets/132147692/e4be4584-5776-4c41-8c50-4b49eb059494)
+, CODING
 Happy Coding!
