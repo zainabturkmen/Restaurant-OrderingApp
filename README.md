@@ -24,5 +24,7 @@ Quick start:
  ![SleepGoGIF](https://github.com/zainabturkmen/Restaurant-OrderingApp/assets/132147692/e4be4584-5776-4c41-8c50-4b49eb059494)
                                                   
   **Coding*
+  ![ScalerCreateImpactGIF (2)](https://github.com/zainabturkmen/Restaurant-OrderingApp/assets/132147692/096ebf5f-5a5e-4eba-93bb-05880ddad83a)
+
   
 Happy Coding!
