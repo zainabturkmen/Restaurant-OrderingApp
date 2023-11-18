@@ -15,6 +15,7 @@ Quick start:
 
 ![Annotation 2023-10-21 062307](https://github.com/sampleRID/Restaurant-OrderingApp/assets/132147692/7ba5cefb-9f09-484b-9ebb-7aeede2a138c)
 
+
  **Eating*
 
  ![KevinmcgarryMcgarriesGIF](https://github.com/zainabturkmen/Restaurant-OrderingApp/assets/132147692/3fb0e427-c482-4d46-b770-bc7a5747a499)
